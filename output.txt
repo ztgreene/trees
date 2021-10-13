@@ -1,0 +1,106 @@
+
+Select an option:
+1:Add a student 
+2:Remove a student 
+3:Enrol a student 
+4:Un-enrol a student 
+5:Print summary of courses 
+6:Print course enrolment 
+7:Print current enrolment for student 
+0:Quit
+
+Add student selected
+Enter Student ID: 
+Add student selected
+Enter Student ID: 
+Add student selected
+Enter Student ID: 
+Add student selected
+Enter Student ID: 
+Add student selected
+Enter Student ID: 
+Add student selected
+Enter Student ID: 
+Add student selected
+Enter Student ID: 
+Add student selected
+Enter Student ID: 
+Add student selected
+Enter Student ID: 
+Add student selected
+Enter Student ID: 
+Add student selected
+Enter Student ID: 
+Add student selected
+Enter Student ID: 
+Enrol student selected
+Enter Student ID: Enter Course Name: 
+Enrol student selected
+Enter Student ID: Enter Course Name: 
+Enrol student selected
+Enter Student ID: Enter Course Name: 
+Enrol student selected
+Enter Student ID: Enter Course Name: 
+Enrol student selected
+Enter Student ID: Enter Course Name: 
+Enrol student selected
+Enter Student ID: Enter Course Name: 
+Enrol student selected
+Enter Student ID: Enter Course Name: 
+Enrol student selected
+Enter Student ID: Enter Course Name: 
+Enrol student selected
+Enter Student ID: Enter Course Name: 
+Enrol student selected
+Enter Student ID: Enter Course Name: 
+Enrol student selected
+Enter Student ID: Enter Course Name: 
+Enrol student selected
+Enter Student ID: Enter Course Name: 
+Enrol student selected
+Enter Student ID: Enter Course Name: 
+Enrol student selected
+Enter Student ID: Enter Course Name: 
+Enrol student selected
+Enter Student ID: Enter Course Name: 
+Enrol student selected
+Enter Student ID: Enter Course Name: 
+Enrol student selected
+Enter Student ID: Enter Course Name: 
+Enrol student selected
+Enter Student ID: Enter Course Name: 
+Enrol student selected
+Enter Student ID: Enter Course Name: 
+Enrol student selected
+Enter Student ID: Enter Course Name: 
+Enrol student selected
+Enter Student ID: Enter Course Name: 
+Enrol student selected
+Enter Student ID: Enter Course Name: 
+Enrol student selected
+Enter Student ID: Enter Course Name: 
+Enrol student selected
+Enter Student ID: Enter Course Name: 
+Un-enrol student selected
+Enter Student ID: Enter Course Name: 
+Un-enrol student selected
+Enter Student ID: Enter Course Name: 
+Un-enrol student selected
+Enter Student ID: Enter Course Name: 
+Un-enrol student selected
+Enter Student ID: Enter Course Name: 
+Un-enrol student selected
+Enter Student ID: Enter Course Name: 
+Un-enrol student selected
+Enter Student ID: Enter Course Name: 
+Print summary of courses selected
+
+Current enrolments:
+ggg 1
+bbb 4
+ddd 2
+ccc 2
+aaa 5
+fff 4
+
+Quitting...
